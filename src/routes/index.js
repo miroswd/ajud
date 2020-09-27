@@ -16,6 +16,7 @@ routes.post('/session',SessionController.store)
 
 // lawyers
 routes.post('/session/judiciary',LawyerController.store)
+routes.get('/judiciaries',LawyerController.index)
 
 
 module.exports = routes

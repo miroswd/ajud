@@ -29,7 +29,7 @@ class UserController {
     return response.status(200).json(data)
     } catch (error) {
       console.log(error)
-      return response.status(401).json('error')
+      return response.status(401).json(error)
     }
   }
 

@@ -26,13 +26,13 @@
 ### Migrations
 
 ```
-  yarn sequelize init
-  yarn sequelize migration:create --name createUser
+  # yarn sequelize init
+  # yarn sequelize migration:create --name createUser
   yarn sequelize db:migrate
 ```
 
 ### docker
 
 ```
-docker-compose up
+# docker-compose up
 ```

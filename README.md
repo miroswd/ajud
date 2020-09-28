@@ -4,7 +4,6 @@
 
 - Node.Js Instalado [x]
 - Yarn Instalado [x]
-
 - Docker Instalado [x]
 
   ```
@@ -22,3 +21,8 @@
 - Alterar os dados de <a href="#">example.env</a>
 - Renomear arquivo 'example.env' para '.env'
 
+<h5>Rodar os seguintes comandos no terminal</h5>
+```
+yarn # para instalar as dependências
+yarn sequelize db:migrate # criar as migrations
+```

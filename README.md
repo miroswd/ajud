@@ -2,9 +2,9 @@
 
 ### Requisitos
 
-- Node.Js Instalado [x]
-- Yarn Instalado [x]
-- Docker Instalado [x]
+- Node.Js Instalado
+- Yarn Instalado
+- Docker Instalado
 
   ```
   # Colar no Terminal

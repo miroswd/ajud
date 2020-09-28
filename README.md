@@ -22,17 +22,3 @@
 - Alterar os dados de <a href="#">example.env</a>
 - Renomear arquivo 'example.env' para '.env'
 
-
-### Migrations
-
-```
-  # yarn sequelize init
-  # yarn sequelize migration:create --name createUser
-  yarn sequelize db:migrate
-```
-
-### docker
-
-```
-# docker-compose up
-```

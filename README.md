@@ -22,6 +22,7 @@
 - Renomear arquivo 'example.env' para '.env'
 
 <h5>Rodar os seguintes comandos no terminal</h5>
+
 ```
 yarn # para instalar as dependências
 yarn sequelize db:migrate # criar as migrations
